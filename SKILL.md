@@ -1,5 +1,5 @@
 ---
-name: obsidian-note-taker
+name: obsidian-note-formatting-skill
 description: Create well-formatted Obsidian notes with proper frontmatter, templates, and organization. Use when users want to create notes for their Obsidian vault, document ideas or technical content, or need help structuring information in Obsidian-compatible markdown format.
 ---
 
